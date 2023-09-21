@@ -1,0 +1,21 @@
+#navbar{
+    height:60px;
+    background-color:#0f1111;
+  }
+  
+  #logo{
+    color:#f08804;
+    height:25px;
+    margin-right:200px;
+    text-decoration:none;
+  }
+  
+  .am{
+    color:white;
+    margin-right:200px;
+    text-decoration:none;
+  }
+  
+  #col{
+    background-color:#f08804;
+  }
